@@ -29,9 +29,8 @@ def circulate():
     print('After circulating the values are:',a)
 ```
 ## Output:
-# Before:
 ![Screenshot 2023-08-24 192318](https://github.com/sanjay5656/Circulate-the-values-of-N-variables/assets/115128955/ad08c37a-dd72-4ce3-9050-30e89f47ad0f)
-# After:
+
 ![Screenshot 2023-08-24 192328](https://github.com/sanjay5656/Circulate-the-values-of-N-variables/assets/115128955/92e26f59-f26f-4cc6-b97c-4939a4e912b7)
 ## Result:
 Thus the circulating values are successfully executed. 
